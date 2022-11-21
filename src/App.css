@@ -3,10 +3,17 @@
 }
 
 body {
-  margin: 0;
+  margin-top: 50px;
   font-family: Inter, sans-serif;
   height: 100vh;
-  background-color: #282d35;
+  background-color: #f9f7fe;
+}
+
+.container {
+  max-width: 700px;
+  display: block;
+  margin: auto;
+  box-shadow: 0 30px 50px rgb(65 50 100 / 10%);
 }
 
 nav {
@@ -22,13 +29,6 @@ nav {
   margin: 0;
 }
 
-.nav--logo_text {
-  margin-right: auto;
-  color: #61dafb;
-  font-weight: 700;
-  font-size: 22px;
-}
-
 .nav--title {
   color: #deebf8;
   font-weight: 600;
@@ -36,15 +36,16 @@ nav {
 
 .nav--icon {
   height: 30px;
-  margin-right: 7px;
+  margin-right: auto;
 }
 
 main {
   padding: 57px 27px;
   color: white;
-  background-image: url(../images/react-icon-large.png);
+  background-image: url(./images/react-icon-large.png);
   background-repeat: no-repeat;
   background-position: right 75%;
+  background-color: #282d35;
 }
 
 .main--title {
