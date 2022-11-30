@@ -1,6 +1,6 @@
-[![MasterHead](https://raw.githubusercontent.com/NayoBaez/SheCodes-Responsive-Portfolio/main/GITHUB%20README%20BANNER%20-%20PORTFOLIO.png)](https://nayobaez.com)
+[![MasterHead](https://raw.githubusercontent.com/NayoBaez/React-info-Site/master/GITHUB%20README%20INFO-SITE.png)](https://nayobaez.com)
 
-# REACT FACTS INFO SITE
+# REACT INFO-SITE
 
 I built this portfolio as the final project of the Shecodes Responsive course. During this course we learned how develop Figma designs into real life websites with advanced Bootstrap (Navigation, Utility Classes, etc.), Flexbox, Multiple Page Hosting, Media Queries, and more. 
 
