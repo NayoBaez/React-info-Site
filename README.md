@@ -2,7 +2,7 @@
 
 # REACT INFO-SITE
 
-This is a static page built with basic React techniques. I built this page are part of a challenge on the Scrimba course, to showcase how much better it is to devide apps in reusable components with React, comparing to other JS Frameworks. 
+This is a static page built with basic React techniques. I built this page as part of a Scrimba course challenge, to showcase how much better it is to devide apps in reusable components with React, comparing to other JS Frameworks or Vanilla Javascript. 
 
 <img align="right" alt="portfolio" width="350" src="https://raw.githubusercontent.com/NayoBaez/React-info-Site/master/React%20Info-site.png"></img>
 
