@@ -2,9 +2,9 @@
 
 # REACT INFO-SITE
 
-I built this portfolio as the final project of the Shecodes Responsive course. During this course we learned how develop Figma designs into real life websites with advanced Bootstrap (Navigation, Utility Classes, etc.), Flexbox, Multiple Page Hosting, Media Queries, and more. 
+This is a static page built with basic React techniques. I built this page are part of a challenge on the Scrimba course, to showcase how much better it is to devide apps in reusable components with React, comparing to other JS Frameworks. 
 
-<img align="right" alt="portfolio" width="350" src="https://raw.githubusercontent.com/NayoBaez/SheCodes-Responsive-Portfolio/main/SCREENSHOT%20PORTFOLIO%20FOOTER.png"></img>
+<img align="right" alt="portfolio" width="350" src="https://raw.githubusercontent.com/NayoBaez/React-info-Site/master/React%20Info-site.png"></img>
 
 ## Tech Stack
 
