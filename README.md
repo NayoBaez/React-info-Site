@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/NayoBaez/React-info-Site/master/GITHUB%20README%20INFO-SITE.png)](https://nayobaez.com)
+[![MasterHead](https://raw.githubusercontent.com/NayoBaez/React-info-Site/master/GITHUB%20README%20BANNER%20INFO-SITE.png)](https://nayobaez.com)
 
 # REACT INFO-SITE
 
